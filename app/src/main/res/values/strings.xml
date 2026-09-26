@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Naomi Controller</string>
+    <string name="service_name">Naomi Accessibility Controller</string>
+    <string name="service_description">Allows approved navigation, scrolling, tapping, and typing actions.</string>
+</resources>
